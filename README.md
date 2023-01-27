@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AliceBanica
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Frontend Projects
